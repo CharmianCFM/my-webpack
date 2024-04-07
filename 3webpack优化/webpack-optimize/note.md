@@ -1,3 +1,4 @@
+## 知识点汇总
 1. noParse: /jquery/, // 不去解析jquery中的依赖库 提升打包速度
 2. rules: [
       {
