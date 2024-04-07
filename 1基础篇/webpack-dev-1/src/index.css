@@ -1,0 +1,11 @@
+@import './a.css';
+body{
+  background: red;
+
+}
+
+div{
+  width: 954px;height: 249px;
+  background: url("./logo.png"); 
+  /* 图片由url-loader处理 */
+}
